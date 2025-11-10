@@ -3,8 +3,8 @@ const saveButton = document.getElementById("save");
 const enabledCheckbox = document.getElementById("enabled");
 
 chrome.storage.sync.get(["keywords", "enabled"], ({ keywords, enabled }) => {
-  textarea.value = (keywords || ["nubank", "roxinho", "nu"]).join("\n");
-  enabledCheckbox.checked = enabled !== false; // padrão: ligado
+  textarea.value = (keywords || ["nubank", "roxinho"]).join("\n");
+  enabledCheckbox.checked = enabled !== false;
 });
 
 saveButton.addEventListener("click", () => {

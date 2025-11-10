@@ -1,5 +1,5 @@
 async function hidePostsWithKeywords() {
-  const { keywords = ["nubank", "roxinho", "nu"], enabled = true } = await chrome.storage.sync.get(["keywords", "enabled"]);
+  const { keywords = ["nubank", "roxinho"], enabled = true } = await chrome.storage.sync.get(["keywords", "enabled"]);
 
   if (!enabled) {
     console.log("cale-a-boqui: desativado");
