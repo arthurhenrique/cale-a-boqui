@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "cale-a-boqui",
+  "version": "0.1",
+  "description": "Cala a boca da galera que só fala em 'nubank' (ou qualquer palavra que você quiser).",
+  "permissions": ["storage", "activeTab", "scripting"],
+  "content_scripts": [
+    {
+      "matches": ["*://www.linkedin.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "configurar palavras bloqueadas"
+  },
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}
