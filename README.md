@@ -2,6 +2,8 @@
 
 extensão que esconde posts do LinkedIn com palavras como "nubank", "roxinho" e "nu", ou outras.
 
+<img width="278" height="290" alt="Screenshot 2025-11-10 at 20 10 18" src="https://github.com/user-attachments/assets/7c94e02d-cf94-4abd-9bb1-d0d363d46b4a" />
+
 ### Instalar
 
 enquanto a loja valida o app, instale assim:
@@ -15,3 +17,4 @@ enquanto a loja valida o app, instale assim:
 
 - Funciona automático no LinkedIn
 - Clique no ícone 🤫 para ligar/desligar ou editar palavras
+
