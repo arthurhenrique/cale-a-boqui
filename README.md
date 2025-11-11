@@ -16,5 +16,5 @@ enquanto a loja valida o app, instale assim:
 ### Usar
 
 - Funciona automático no LinkedIn
-- Clique no ícone 🤫 para ligar/desligar ou editar palavras
+- Clique no ícone 🤫 para ligar/desligar ou editar palavras (suporta regex no formato `/termo/i`)
 
