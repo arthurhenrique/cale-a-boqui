@@ -1,0 +1,1 @@
+zip -r cale-a-boqui.zip icon128.png icon16.png icon48.png manifest.json popup.html popup.js content.js

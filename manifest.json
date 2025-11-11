@@ -3,7 +3,7 @@
   "name": "cale-a-boqui",
   "version": "0.1",
   "description": "Cala a boca da galera que só fala em 'nubank' (ou qualquer palavra que você quiser).",
-  "permissions": ["storage", "activeTab", "scripting"],
+  "permissions": ["storage"],
   "content_scripts": [
     {
       "matches": ["*://www.linkedin.com/*"],
