@@ -6,7 +6,9 @@ extensão que esconde posts do LinkedIn com palavras como "nubank", "roxinho" e 
 
 ### Instalar
 
-enquanto a loja valida o app, instale assim:
+Confira o item na Chrome Web Store https://chromewebstore.google.com/detail/khcmjblacfinmebjgbajghnhindpmkfk?utm_source=item-share-cp
+
+ou
 
 1. Vá em `chrome://extensions/`
 2. Ative **Modo do desenvolvedor**
