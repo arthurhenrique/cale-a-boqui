@@ -1,0 +1,11 @@
+Clean Code
+DDD
+SOLID
+CQRS
+Event Sourcing
+Hexagonal Architecture
+Domain Events
+Repository Pattern
+Layered Architecture
+Ports and Adapters
+TDD
